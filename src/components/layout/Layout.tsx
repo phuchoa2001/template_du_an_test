@@ -31,7 +31,7 @@ const LayoutComponent = (props: Props) => {
     <div>
       <Layout>
         <Layout>
-          <Sider className={Styles.Sider}>
+          <Sider className={Styles.sider}>
             <Menu
               theme="dark"
               mode="inline"
